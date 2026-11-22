@@ -1,0 +1,9 @@
+{"version":"v1-demo","techniques":[
+{"id":"T1110","name":"Brute Force","tactic":"Credential Access","description":"Adversaries may use brute force techniques to gain access to accounts."},
+{"id":"T1046","name":"Network Service Scanning","tactic":"Discovery","description":"Adversaries may scan for network services."},
+{"id":"T1059.001","name":"PowerShell","tactic":"Execution","description":"Adversaries may abuse PowerShell commands and scripts."},
+{"id":"T1059.003","name":"Windows Command Shell","tactic":"Execution","description":"Adversaries may use command shell for execution."},
+{"id":"T1190","name":"Exploit Public-Facing Application","tactic":"Initial Access","description":"Adversaries may exploit public-facing applications."},
+{"id":"T1071.001","name":"Web Protocols","tactic":"Command and Control","description":"Adversaries may use web protocols for C2."},
+{"id":"T1566","name":"Phishing","tactic":"Initial Access","description":"Adversaries may use phishing techniques."}
+]}
